@@ -1,5 +1,10 @@
 # Programming Language Translation: An Empirical Study
 
+### IMPORTANT NOTE 🚨🚨🚨
+This work has been published in ICSE 2024. Please refer to our [main repository](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical) for the most up-to-date artifacts. This anonymous repository will be still active but not updated anymore.
+
+Ali - December 15 2023
+
 ### Compute Requirements
 
 We used 16 NVIDIA A100 GPUs with 80GBs of memory for inferencing models. Moreover, for compiling and testing the generated translations, we used Python 3.10, g++ 11, GCC Clang 14.0, Java 11, and Go 1.20 for Python, C++, C, Java, and Go, respectively.
